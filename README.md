@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Tejas Patel"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Tejas Patel" width="800px"/>
 </p>
 
 # Hello, I'm Tejas Patel 👋
